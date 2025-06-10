@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                echo 'Building..'
+                echo 'Building in june..'
 
             }
 
@@ -18,7 +18,7 @@ pipeline {
 
             steps {
 
-                echo 'Testing..'
+                echo 'Testing in June..'
 
             }
 
@@ -28,7 +28,7 @@ pipeline {
 
             steps {
 
-                echo 'Deploying....'
+                echo 'Deploying in June....'
 
             }
 
